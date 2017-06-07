@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android workspace\\Ex_Files_Android_Apps_RESTful\\Exercise Files\\Ch02\\02_02\\AsyncTask\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "D:\\Android workspace\\Ex_Files_Android_Apps_RESTful\\Exercise Files\\Ch02\\02_02\\AsyncTask\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Android workspace\\Android-RESTful-Nandaz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\425f932f295c3b2ac3f422238ced9a6345f6a863\\output\\res\\layout-v16\\notification_template_custom_big.xml"
+    }
+]

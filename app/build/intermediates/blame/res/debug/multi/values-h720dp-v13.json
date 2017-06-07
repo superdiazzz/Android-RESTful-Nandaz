@@ -22,5 +22,29 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "D:\\Android workspace\\Android-RESTful-Nandaz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\.android\\build-cache\\425f932f295c3b2ac3f422238ced9a6345f6a863\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
     }
 ]

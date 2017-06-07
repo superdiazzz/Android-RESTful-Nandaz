@@ -2,5 +2,9 @@
     {
         "merged": "D:\\Android workspace\\Ex_Files_Android_Apps_RESTful\\Exercise Files\\Ch02\\02_02\\AsyncTask\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
         "source": "D:\\Android workspace\\Ex_Files_Android_Apps_RESTful\\Exercise Files\\Ch02\\02_02\\AsyncTask\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android workspace\\Android-RESTful-Nandaz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\Android workspace\\Android-RESTful-Nandaz\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }
 ]

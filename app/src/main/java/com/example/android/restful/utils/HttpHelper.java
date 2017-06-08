@@ -1,5 +1,7 @@
 package com.example.android.restful.utils;
 
+import android.util.Base64;
+
 import java.io.BufferedOutputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
@@ -26,6 +28,43 @@ public class HttpHelper {
 
             URL url = new URL(address);
             HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+            conn.setReadTimeout(10000);
+            conn.setConnectTimeout(15000);
+            conn.setRequestMethod("GET");
+            conn.setDoInput(true);
+            conn.connect();
+
+            int responseCode = conn.getResponseCode();
+            if (responseCode != 200) {
+                throw new IOException("Got response code " + responseCode);
+            }
+            is = conn.getInputStream();
+            return readStream(is);
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            if (is != null) {
+                is.close();
+            }
+        }
+        return null;
+    }
+
+    public static String downloadUrl(String address, String user, String pass) throws IOException{
+
+        byte[] cred = (user + ":" + pass).getBytes();
+        StringBuilder sb = new StringBuilder();
+        sb.append("Basic ")
+                .append(Base64.encodeToString(cred, Base64.DEFAULT));
+
+
+        InputStream is = null;
+        try {
+
+            URL url = new URL(address);
+            HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+            conn.addRequestProperty("Authorization", sb.toString());
             conn.setReadTimeout(10000);
             conn.setConnectTimeout(15000);
             conn.setRequestMethod("GET");
@@ -78,5 +117,6 @@ public class HttpHelper {
             }
         }
     }
+
 
 }

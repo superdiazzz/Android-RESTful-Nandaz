@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Jun 08 11:29:26 ICT 2017
+#Thu Jun 08 12:40:16 ICT 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=D\:\\Android workspace\\Android-RESTful-Nandaz\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_list_selector_holo_light.xml

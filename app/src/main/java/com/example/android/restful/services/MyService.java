@@ -37,7 +37,8 @@ public class MyService extends IntentService {
         }*/
         String response;
         try {
-            response = HttpHelper.downloadUrl(uri.toString());
+            //response = HttpHelper.downloadUrl(uri.toString());
+            response = HttpHelper.downloadUrl(uri.toString(), "nadias", "NadiasPassword"); //--> dengan menggunakan password (secure)
         } catch (IOException e) {
             e.printStackTrace();
             return;

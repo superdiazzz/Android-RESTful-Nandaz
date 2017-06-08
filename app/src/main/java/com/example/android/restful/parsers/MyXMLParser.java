@@ -5,4 +5,9 @@ package com.example.android.restful.parsers;
  */
 
 public class MyXMLParser {
+
+    // ini adalah bagian parsing dari response XML
+
 }
+
+

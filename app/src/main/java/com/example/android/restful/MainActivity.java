@@ -24,7 +24,9 @@ public class MainActivity extends AppCompatActivity {
     TextView output;
     private boolean networkOk;
 
-    public static final String JSON_URL = "http://560057.youcanlearnit.net/services/json/itemsfeed.php";
+//    public static final String JSON_URL = "http://560057.youcanlearnit.net/services/json/itemsfeed.php";
+    public static final String JSON_URL = "http://560057.youcanlearnit.net/secured/json/itemsfeed.php"; // -> dengan password
+
 
     private BroadcastReceiver mBroadcastReceiver = new BroadcastReceiver() {
         @Override

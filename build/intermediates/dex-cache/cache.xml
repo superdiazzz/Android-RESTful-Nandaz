@@ -12,12 +12,120 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\425f932f295c3b2ac3f422238ced9a6345f6a863\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\Android workspace\Android-RESTful-Nandaz\app\build\intermediates\pre-dexed\debug\classes_c5209212dd972fc57d18420716fd7947d3134b54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\7c9d8cefe9c6ef9a66a3e37322fae0cade0f1477\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\Android workspace\Android-RESTful-Nandaz\app\build\intermediates\pre-dexed\debug\classes_6785b3f6924203c0c2c098d96ad5a883a07f2ed2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\897e1f5a57897d510b69342030aa80d35cc58aa6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\Android workspace\Android-RESTful-Nandaz\app\build\intermediates\pre-dexed\debug\classes_4c7e5984f874b8db8100d9ea81b778c6de7792f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\864db55425297722336fccb1a156ae14106b5310\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\Android workspace\Android-RESTful-Nandaz\app\build\intermediates\pre-dexed\debug\classes_742e0c30bf79acd6ee236e130821aa5f29c594c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="D:\Android workspace\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch02\02_02\AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
         <dex dex="D:\Android workspace\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch02\02_02\AsyncTask\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_0cf2e170f64b8f3196952ae6c532a4d6ae954e69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\e14dac117c93064273352e6fd64cc3cb38267e96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\Android workspace\Android-RESTful-Nandaz\app\build\intermediates\pre-dexed\debug\classes_a14faae36b5281da9f3f75da49b698e3482a8536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\929da1f01c030f29baaab8e13c7f20d93f705f1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android workspace\Android-RESTful-Nandaz\app\build\intermediates\pre-dexed\debug\classes_beaa0a6e02d18ef65e8f37f9e4d54ec0ccea359f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android workspace\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch02\02_02\AsyncTask\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\Android workspace\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch02\02_02\AsyncTask\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_1f912dec31de1845c0c0d0f2b6983537cd04679b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\030588465cbf23fa49ce6e2f54adcf7af47e937b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\Android workspace\Android-RESTful-Nandaz\app\build\intermediates\pre-dexed\debug\classes_a765b8453f31909217b8e407f641e0ad910d4c68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android workspace\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch02\02_02\AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\Android workspace\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch02\02_02\AsyncTask\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_5fe2c028a05e2a1d030f456108dbb7a398cc5811.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android workspace\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch02\02_02\AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android workspace\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch02\02_02\AsyncTask\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_e1cd71a8a39928528992f104d010c4b83b2633d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\b4baedb3a303a178ce28e8b8c6cfba1f3af054ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\Android workspace\Android-RESTful-Nandaz\app\build\intermediates\pre-dexed\debug\classes_9b5a4ce2926177f08cba2efe331d7537ede79803.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="D:\Android workspace\Android-RESTful-Nandaz\app\build\intermediates\pre-dexed\debug\gson-2.8.1_723d74eae77a2a442abf0e9883054a85c89c097c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,30 +174,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\Android workspace\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch02\02_02\AsyncTask\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.3"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="D:\Android workspace\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch02\02_02\AsyncTask\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_1f912dec31de1845c0c0d0f2b6983537cd04679b.jar" />
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\Android workspace\Android-RESTful-Nandaz\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_f9d4e657b6064ffb12565af434ffd35176336dcb.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\Android workspace\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch02\02_02\AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jar="C:\Users\User\.android\build-cache\89a760f87d155681b6ae75c4bc08d922272a424f\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.3"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="D:\Android workspace\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch02\02_02\AsyncTask\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_5fe2c028a05e2a1d030f456108dbb7a398cc5811.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Android workspace\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch02\02_02\AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\Android workspace\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch02\02_02\AsyncTask\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_e1cd71a8a39928528992f104d010c4b83b2633d2.jar" />
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\Android workspace\Android-RESTful-Nandaz\app\build\intermediates\pre-dexed\debug\classes_ccf0982ae47556703f796040bc779fba1c691ee3.jar" />
     </item>
 
 </items>

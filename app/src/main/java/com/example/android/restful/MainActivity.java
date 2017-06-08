@@ -13,6 +13,7 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.android.restful.model.DataItem;
 import com.example.android.restful.services.MyService;
 import com.example.android.restful.utils.NetworkHelper;
 
@@ -28,8 +29,13 @@ public class MainActivity extends AppCompatActivity {
     private BroadcastReceiver mBroadcastReceiver = new BroadcastReceiver() {
         @Override
         public void onReceive(Context context, Intent intent) {
-            String message = intent.getExtras().getString(MyService.INTENT_SERVICE_PAYLOAD);
-            output.append(message + "\n");
+            //String message = intent.getExtras().getString(MyService.INTENT_SERVICE_PAYLOAD);
+            //output.append(message + "\n");
+
+            DataItem[] dataItems = (DataItem[]) intent.getParcelableArrayExtra(MyService.INTENT_SERVICE_PAYLOAD);
+            for (DataItem dataItem: dataItems) {
+                output.append(dataItem.getItemName() + "\n");
+            }
         }
     };
 

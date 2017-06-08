@@ -7,7 +7,9 @@ import android.support.annotation.Nullable;
 import android.support.v4.content.LocalBroadcastManager;
 import android.util.Log;
 
+import com.example.android.restful.model.DataItem;
 import com.example.android.restful.utils.HttpHelper;
+import com.google.gson.Gson;
 
 import java.io.IOException;
 
@@ -41,9 +43,11 @@ public class MyService extends IntentService {
             return;
         }
 
+        Gson gson = new Gson();
+        DataItem[] dataItems = gson.fromJson(response, DataItem[].class);
 
         Intent messageIntent = new Intent(INTENT_SERVICE_MESSAGE);
-        messageIntent.putExtra(INTENT_SERVICE_PAYLOAD, response);
+        messageIntent.putExtra(INTENT_SERVICE_PAYLOAD, dataItems);
         LocalBroadcastManager manager = LocalBroadcastManager.getInstance(getApplicationContext());
         manager.sendBroadcast(messageIntent);
 
